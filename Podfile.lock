@@ -1,0 +1,18 @@
+PODS:
+  - XCTest-Gherkin/Core (0.19.2)
+  - XCTest-Gherkin/Native (0.19.2):
+    - XCTest-Gherkin/Core
+
+DEPENDENCIES:
+  - XCTest-Gherkin/Native
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XCTest-Gherkin
+
+SPEC CHECKSUMS:
+  XCTest-Gherkin: 835528872811b20918ec37cc1cfff1f88c838450
+
+PODFILE CHECKSUM: 1a71a4e151c6bcd198d81d73cebb35664bf692a0
+
+COCOAPODS: 1.6.1

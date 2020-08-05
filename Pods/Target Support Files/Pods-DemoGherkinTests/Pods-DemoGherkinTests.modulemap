@@ -1,0 +1,6 @@
+framework module Pods_DemoGherkinTests {
+  umbrella header "Pods-DemoGherkinTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
